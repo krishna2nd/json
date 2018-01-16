@@ -1,0 +1,231 @@
+{
+  "categoryDisplay": [],
+  "codeMessage": "0",
+  "freeShipping": false,
+  "department": "Celulares y smartphones",
+  "skuDeliveryMethods": [
+    {
+      "deliveryMethod": "homeDelivery",
+      "disponible": "true"
+    },
+    {
+      "deliveryMethod": "Pick at Store",
+      "disponible": "true"
+    }
+  ],
+  "jsessionid": "zFfbWueb6XsMp1bqQ8scjLx8",
+  "requestHandler": "X.X.X.170",
+  "breadcrumb": {
+    "fineLineName": "Smartwatch",
+    "familyId": "cat30236",
+    "familyName": "Accesorios para celulares",
+    "fineLineId": "cat210099",
+    "departmentId": "cat30235",
+    "departmentName": "Celulares y smartphones"
+  },
+  "skuType": "Add To Cart",
+  "configurableSku": false,
+  "longDescription": "<b>Gear Fit2 Pro de Samsung,</b> no es un <b>Smart watch</b> cualquiera,  pues además de su moderno diseño, podrás disfrutar de más de 3,000 apps como<u> Under Armour, Speedo On y Spotify </u>para complementar tu entrenamiento, planes de nutricionales y entretenimiento.<br/><br/><br/><b>El smart watch Gear Fit2 Pro de Samsung</b> también ofrece:<i><br/><br/><br/>- Resistencia al agua hasta 5 ATM<br/><br/>- GPS incluido<br/><br/>- Hasta 5 días de batería<br/><br/>- Reproductor de música y carátulas personalizadas<br/><br/>- Medición de ritmo cardiaco continuo</i><br/><br/><br/><br/>Encuentra una amplia variedad de<b> smartphones y accesorios de telefonía celular en Sam's Club</b>. Disfruta de grandes beneficios al realizar tus compras en línea aquí en <b>sams.com.mx.</b>",
+  "skuId": "980002879",
+  "comparisonData": {
+    "family": [
+      "Relojes y pulseras inteligentes ",
+      "Accesorios para celulares"
+    ],
+    "department": [
+      "Celulares y smartphones",
+      "Categorías_Exclusivas_App"
+    ],
+    "fineLine": [
+      "Smartwatch"
+    ]
+  },
+  "bannerDetails": {
+    "prodBanner": null,
+    "promotionalBanner": null,
+    "crosssellProdBanner": null,
+    "relatedProdBanner": null,
+    "upsellProdBanner": null
+  },
+  "isPriceStrike": false,
+  "paymentPlans": [
+    "3",
+    "6",
+    "12"
+  ],
+  "status": "SELLABLE",
+  "specialPrice": "3498.99",
+  "sku": {
+    "seoKeywords": [],
+    "preOrderEndDate": null,
+    "weighable": 0,
+    "parentProducts": [
+      {
+        "preOrderEndDate": null,
+        "smallImageUrl": "/images/product-images/img_small/980002879s.jpg",
+        "childSKUs": [],
+        "id": "0980002879",
+        "fractions": [],
+        "description": "GEAR FIT2 PRO",
+        "largeImageUrl": "/images/product-images/img_large/980002879L.jpg",
+        "longDescription": "<b>Gear Fit2 Pro de Samsung,</b> no es un <b>Smart watch</b> cualquiera,  pues además de su moderno diseño, podrás disfrutar de más de 3,000 apps como<u> Under Armour, Speedo On y Spotify </u>para complementar tu entrenamiento, planes de nutricionales y entretenimiento.<br/><br/><br/><b>El smart watch Gear Fit2 Pro de Samsung</b> también ofrece:<i><br/><br/><br/>- Resistencia al agua hasta 5 ATM<br/><br/>- GPS incluido<br/><br/>- Hasta 5 días de batería<br/><br/>- Reproductor de música y carátulas personalizadas<br/><br/>- Medición de ritmo cardiaco continuo</i><br/><br/><br/><br/>Encuentra una amplia variedad de<b> smartphones y accesorios de telefonía celular en Sam's Club</b>. Disfruta de grandes beneficios al realizar tus compras en línea aquí en <b>sams.com.mx.</b>",
+        "brand": "Samsung",
+        "displayName": "Smart Watch",
+        "shopTicketDesc": "Gear Fit2 Pro Rojo Correa Grande",
+        "subBrand": null,
+        "thumbnailImageUrl": "/images/product-images/img_thumb/980002879t.jpg",
+        "ratings": null,
+        "fractionalQuantitiesAllowed": false
+      }
+    ],
+    "baseUom": null,
+    "averageWeight": null,
+    "seoDescription": "<ul><li>GPS</li><li> Medición de ritmo cardiaco continuo</li><li>Resistencia al agua</li></ul>",
+    "type": "sku",
+    "rightLargeImageUrl": "/images/product-images/img_large/980002879-2L.jpg",
+    "onDemandStock": null,
+    "id": "980002879",
+    "allowSubstitution": null,
+    "isMembershipSku": false,
+    "fractions": null,
+    "bundleLinks": [],
+    "videoId": [],
+    "longDescription": "<b>Gear Fit2 Pro de Samsung,</b> no es un <b>Smart watch</b> cualquiera,  pues además de su moderno diseño, podrás disfrutar de más de 3,000 apps como<u> Under Armour, Speedo On y Spotify </u>para complementar tu entrenamiento, planes de nutricionales y entretenimiento.<br/><br/><br/><b>El smart watch Gear Fit2 Pro de Samsung</b> también ofrece:<i><br/><br/><br/>- Resistencia al agua hasta 5 ATM<br/><br/>- GPS incluido<br/><br/>- Hasta 5 días de batería<br/><br/>- Reproductor de música y carátulas personalizadas<br/><br/>- Medición de ritmo cardiaco continuo</i><br/><br/><br/><br/>Encuentra una amplia variedad de<b> smartphones y accesorios de telefonía celular en Sam's Club</b>. Disfruta de grandes beneficios al realizar tus compras en línea aquí en <b>sams.com.mx.</b>",
+    "largeImageUrl": "/images/product-images/img_large/980002879L.jpg",
+    "quantity": null,
+    "netContent": null,
+    "itemCubeUOM": "CC",
+    "itemNumber": null,
+    "sellingAtStore": true,
+    "shopTicketDesc": "Gear Fit2 Pro Rojo Correa Grande",
+    "unitOfMeasure": "unitOfMeasureEaches",
+    "preOrderStock": null,
+    "thumbnailImageUrl": "/images/product-images/img_thumb/980002879t.jpg",
+    "subBrand": null,
+    "onSale": false,
+    "isPreOrderable": false,
+    "parentUpc": "0980002879",
+    "auxiliaryMedia": {
+      "RIGHT_ICON": {
+        "url": "/images/product-images/img_icon/980002879-2i.jpg",
+        "mimeType": "image/jpeg"
+      },
+      "ICON": {
+        "url": "/images/product-images/img_icon/980002879i.jpg",
+        "mimeType": "image/jpeg"
+      },
+      "MEDIUM": {
+        "url": "/images/product-images/img_medium/980002879m.jpg",
+        "mimeType": "image/jpeg"
+      },
+      "LEFT_MEDIUM": {
+        "url": "/images/product-images/img_medium/980002879-1m.jpg",
+        "mimeType": "image/jpeg"
+      },
+      "LEFT_ICON": {
+        "url": "/images/product-images/img_icon/980002879-1i.jpg",
+        "mimeType": "image/jpeg"
+      },
+      "SUPERIOR_ICON": {
+        "url": "/images/product-images/img_icon/980002879-3i.jpg",
+        "mimeType": "image/jpeg"
+      },
+      "SUPERIOR_MEDIUM": {
+        "url": "/images/product-images/img_medium/980002879-3m.jpg",
+        "mimeType": "image/jpeg"
+      },
+      "RIGHT_MEDIUM": {
+        "url": "/images/product-images/img_medium/980002879-2m.jpg",
+        "mimeType": "image/jpeg"
+      }
+    },
+    "smallImageUrl": "/images/product-images/img_small/980002879s.jpg",
+    "itemWeight": 0.34,
+    "upc": "980002879",
+    "discountable": true,
+    "leftLargeImageUrl": "/images/product-images/img_large/980002879-1L.jpg",
+    "isOnDemand": false,
+    "itemWeightUOM": "KG",
+    "shortDescription": "GEAR FIT2 PRO",
+    "nonreturnable": false,
+    "superiorLargeImageUrl": "/images/product-images/img_large/980002879-3L.jpg",
+    "minWeight": null,
+    "brand": "Samsung",
+    "sellUom": "EA",
+    "displayName": "Smart Watch",
+    "isBigItem": false,
+    "fractionalQuantitiesAllowed": false
+  },
+  "ProductIcons": {
+    "displayLowStock": "false",
+    "isSkuBundle": "false"
+  },
+  "maxQuantity": 99,
+  "message": "No recently viewed items found",
+  "recentProductsHead": "ARTÍCULOS RECIENTEMENTE VISUALIZADOS",
+  "skuStatus": "SELLABLE",
+  "attributesMap": {
+    "skuCharacteristicsList": [
+      {
+        "parentUpc": "0980002879",
+        "value": "GPS$$ Medición de ritmo cardiaco continuo$$Resistencia al agua",
+        "attrName": "Beneficios para el socio",
+        "upc": "980002879",
+        "attrDesc": "Beneficios para el socio"
+      },
+      {
+        "parentUpc": "0980002879",
+        "value": "Gear Fit2 Pro,cargador, correa, manual",
+        "attrName": "Contenido del empaque en Club",
+        "upc": "980002879",
+        "attrDesc": "Contenido del empaque en Club"
+      },
+      {
+        "parentUpc": "0980002879",
+        "value": "Rojo",
+        "attrName": "Color",
+        "upc": "980002879",
+        "attrDesc": "COLOR"
+      }
+    ],
+    "skuAttributesList": [
+      {
+        "imageLinkUrl": null,
+        "parentUpc": "0980002879",
+        "value": "GPS$$ Medición de ritmo cardiaco continuo$$Resistencia al agua",
+        "attrName": "Beneficios para el socio",
+        "upc": "980002879",
+        "attrDesc": "Beneficios para el socio"
+      },
+      {
+        "imageLinkUrl": null,
+        "parentUpc": "0980002879",
+        "value": "Gear Fit2 Pro,cargador, correa, manual",
+        "attrName": "Contenido del empaque en Club",
+        "upc": "980002879",
+        "attrDesc": "Contenido del empaque en Club"
+      },
+      {
+        "imageLinkUrl": null,
+        "parentUpc": "0980002879",
+        "value": "Rojo",
+        "attrName": "Color",
+        "upc": "980002879",
+        "attrDesc": "COLOR"
+      }
+    ]
+  },
+  "skuToDisplay": "available",
+  "basePrice": "3498.99",
+  "seoURL": "/smartwatch/smart-watch-samsung-gear-fit2-pro-rojo-correa-grande/980002879",
+  "savingsAmount": 0,
+  "discount": {
+    "wasPrice": "3568.99",
+    "nowPrice": "3498.99"
+  },
+  "offer": {
+    "buy": 2,
+    "free": 1
+  },
+  "checkoutMaxThreshold": 25
+}
