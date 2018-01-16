@@ -3,29 +3,29 @@
     "@type": "WXMulti",
     "contents": [
         {
-            "displayName": "Kids Tees",
-            "id": 100,
+            "displayName": "Baby Boy",
+            "id": 101,
             "active": true
         },
         {
-            "displayName": "Electronics",
-            "id": 701,
+            "displayName": "Baby Girl",
+            "id": 150,
             "active": true
         },
         {
             "displayName": "Home & Kitchen",
             "id": 502,
-            "active": true
+            "active": false
         },
         {
             "displayName": "Mobile & Laptops",
             "id": 303,
-            "active": true
+            "active": false
         },
         {
             "displayName": "Furniture & Decorators",
             "id": 910,
-            "active": true
+            "active": false
         },
         {
             "displayName": "Pharmaceuticals",
@@ -35,7 +35,7 @@
         {
             "displayName": "Fashion & Beauty",
             "id": 245,
-            "active": true
+            "active": false
         }
     ]
 }

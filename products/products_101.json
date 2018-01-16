@@ -56,7 +56,7 @@
                         "drawable-xxhdpi",
                         "drawable-xxxhdpi"
                     ],
-                    "sku.displayName": "Kids Tees",
+                    "sku.displayName": "Baby Boy",
                     "product.displayName": "Carter's 2-Piece Tee & Shortalls Set - Grey Blue",
                     "product.description": "Carter's 2-Piece Tee & Shortalls Set - Grey Blue",
                     "product.tag": "SALE",
@@ -68,7 +68,7 @@
                 {
                     "product.id": "1011",
                     "product.category.id":  "101",
-                    "product.image.url": "/assets/categories/{product.id}/{product.image.type}/bitmap.png",
+                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
                     "product.image.type": [
                         "drawable-hdpi",
                         "drawable-mdpi",
@@ -76,7 +76,7 @@
                         "drawable-xxhdpi",
                         "drawable-xxxhdpi"
                     ],
-                    "sku.displayName": "Kids Tees",
+                    "sku.displayName": "Baby Boy",
                     "product.displayName": "Carter's 2-Piece Tee & Shortalls Set - Grey Blue",
                     "product.description": "Carter's 2-Piece Tee & Shortalls Set - Grey Blue",
                     "product.tag": {
@@ -90,7 +90,7 @@
                 {
                     "product.id": "1012",
                     "product.category.id":  "101",
-                    "product.image.url": "/assets/categories/{product.id}/{product.image.type}/bitmap.png",
+                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
                     "product.image.type": [
                         "drawable-hdpi",
                         "drawable-mdpi",
@@ -98,7 +98,7 @@
                         "drawable-xxhdpi",
                         "drawable-xxxhdpi"
                     ],
-                    "sku.displayName": "Kids Tees",
+                    "sku.displayName": "Baby Boy",
                     "product.displayName": "Carter's 3-Pack Side-Snap Bodysuits",
                     "product.description": "Carter's 3-Pack Side-Snap Bodysuits",
                     "product.tag":{
@@ -113,7 +113,7 @@
                 {
                     "product.id": "1013",
                     "product.category.id":  "101",
-                    "product.image.url": "/assets/categories/{product.id}/{product.image.type}/bitmap.png",
+                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
                     "product.image.type": [
                         "drawable-hdpi",
                         "drawable-mdpi",
@@ -121,7 +121,7 @@
                         "drawable-xxhdpi",
                         "drawable-xxxhdpi"
                     ],
-                    "sku.displayName": "Kids Tees",
+                    "sku.displayName": "Baby Boy",
                     "product.displayName": "Fox Baby Full Length Lounge Pant - Pink",
                     "product.description": "Fox Baby Full Length Lounge Pant - Pink",
                     "sku.finalPrice": "63",
@@ -131,7 +131,7 @@
                 },{
                     "product.id": "1014",
                     "product.category.id":  "101",
-                    "product.image.url": "/assets/categories/{product.id}/{product.image.type}/bitmap.png",
+                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
                     "product.image.type": [
                         "drawable-hdpi",
                         "drawable-mdpi",
@@ -139,7 +139,7 @@
                         "drawable-xxhdpi",
                         "drawable-xxxhdpi"
                     ],
-                    "sku.displayName": "Kids Tees",
+                    "sku.displayName": "Baby Boy",
                     "product.displayName": "Carters Glitter Puppy Tee - Pink",
                     "product.description": "Carters Glitter Puppy Tee - Pink",
                     "product.tag": {
@@ -154,7 +154,7 @@
                 {
                     "product.id": "1015",
                     "product.category.id":  "101",
-                    "product.image.url": "/assets/categories/{product.id}/{product.image.type}/bitmap.png",
+                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
                     "product.image.type": [
                         "drawable-hdpi",
                         "drawable-mdpi",
@@ -162,7 +162,7 @@
                         "drawable-xxhdpi",
                         "drawable-xxxhdpi"
                     ],
-                    "sku.displayName": "Kids Tees",
+                    "sku.displayName": "Baby Boy",
                     "product.displayName": "Babyhug Sleeveless Vest - Green",
                     "product.description": "Babyhug Sleeveless Vest - Green",
                     "sku.finalPrice": "25",
@@ -173,7 +173,7 @@
                 {
                     "product.id": "1016",
                     "product.category.id":  "101",
-                    "product.image.url": "/assets/categories/{product.id}/{product.image.type}/bitmap.png",
+                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
                     "product.image.type": [
                         "drawable-hdpi",
                         "drawable-mdpi",
@@ -181,7 +181,7 @@
                         "drawable-xxhdpi",
                         "drawable-xxxhdpi"
                     ],
-                    "sku.displayName": "Kids Tees",
+                    "sku.displayName": "Baby Boy",
                     "product.displayName": "Carter's 2-Piece Flannel Top & Pant Set - Grey",
                     "product.description": "Carter's 2-Piece Flannel Top & Pant Set - Grey",
                     "sku.finalPrice": "130",
