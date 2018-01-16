@@ -1,0 +1,41 @@
+{
+    "displayName": "Categories",
+    "@type": "WXMulti",
+    "contents": [
+        {
+            "displayName": "Kids Tees",
+            "id": 100,
+            "active": true
+        },
+        {
+            "displayName": "Electronics",
+            "id": 701,
+            "active": true
+        },
+        {
+            "displayName": "Home & Kitchen",
+            "id": 502,
+            "active": true
+        },
+        {
+            "displayName": "Mobile & Laptops",
+            "id": 303,
+            "active": true
+        },
+        {
+            "displayName": "Furniture & Decorators",
+            "id": 910,
+            "active": true
+        },
+        {
+            "displayName": "Pharmaceuticals",
+            "id": 851,
+            "active": false
+        },
+        {
+            "displayName": "Fashion & Beauty",
+            "id": 245,
+            "active": true
+        }
+    ]
+}
