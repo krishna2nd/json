@@ -26,17 +26,17 @@
         {
             "label": "Z - A",
             "selected": false,
-            "navigationState": "/products/sort.product.displayText.1.json"
+            "navigationState": "/products/sort.101.product.displayText.1.json"
         },
         {
             "label": "Price low to high",
             "selected": false,
-            "navigationState": "/products/sort.sku.finalPrice.0.json"
+            "navigationState": "/products/sort.101.sku.finalPrice.0.json"
         },
         {
             "label": "Price high to low",
             "selected": false,
-            "navigationState": "/products/sort.sku.finalPrice.1.json"
+            "navigationState": "/products/sort.101.sku.finalPrice.1.json"
         }
     ],
     "records": [{
