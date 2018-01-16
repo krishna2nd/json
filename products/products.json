@@ -1,0 +1,2322 @@
+{
+  "atg:searchId": "15161071608326818134204",
+  "breadCrumbsArea": [
+    {
+      "refinementCrumbs": [
+        {
+          "label": "AT&T",
+          "properties": {
+            "DisplayOrder": "1",
+            "category.siteId": "100001",
+            "category.rootCatalogId": "catalog20001",
+            "category.ancestorCatalogIds": "catalog20001",
+            "category.repositoryId": "cat30241",
+            "SourceId": "cat30235.cat30239.cat30241",
+            "category.catalogs.repositoryId": "catalog20001"
+          },
+          "ancestors": [
+            {
+              "label": "Celulares y smartphones",
+              "navigationState": "/celulares-y-smartphones/_/N-839?_=1516107104459"
+            },
+            {
+              "label": "Celulares",
+              "navigationState": "/celulares-y-smartphones/celulares/_/N-83d?_=1516107104459"
+            }
+          ],
+          "displayName": "Categoría",
+          "removeAction": {
+            "label": null,
+            "navigationState": "?_=1516107104459"
+          },
+          "dimensionName": "product.category"
+        }
+      ],
+      "rangeFilterCrumbs": [],
+      "removeAllAction": {
+        "label": null,
+        "navigationState": "?_=1516107104459"
+      },
+      "searchCrumbs": []
+    }
+  ],
+  "@type": "WMXThreeColumnPage",
+  "canonicalLink": {
+    "label": "",
+    "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83f"
+  },
+  "headerArea": [],
+  "mainArea": [
+    {
+      "contents": [],
+      "@type": "ContentSlot-Main",
+      "name": "Banner"
+    },
+    {
+      "contents": [],
+      "@type": "ContentSlot-Main",
+      "name": "Main Content Slot"
+    },
+    {
+      "module": "Ad\tServer",
+      "@type": "WMXAdConfigurationModule",
+      "name": "Ad Server\tModule",
+      "ads": [
+        {
+          "id": "dfp-bn-1",
+          "targeting": [
+            {
+              "@type": "WMXFreeFormAdTargeting",
+              "name": "Page type targeting",
+              "value": "LINEA",
+              "key": "pgtype"
+            },
+            {
+              "@type": "WMXFreeFormAdTargeting",
+              "name": "Position targeting",
+              "value": "LIN_toplb",
+              "key": "pos"
+            },
+            {
+              "@type": "WMXLoggedInUserAdTargeting",
+              "name": "LoggedIn User\tAd Targeting",
+              "value": true,
+              "key": "reg"
+            },
+            {
+              "@type": "ContentSlot-AdTargeting",
+              "name": "Department targeting"
+            }
+          ],
+          "@type": "WMXAd",
+          "name": "Ad top",
+          "ad": "/149821986/SAMS_CLUB/BUSCAR"
+        },
+        {
+          "id": "dfp-bn-2",
+          "targeting": [
+            {
+              "@type": "WMXFreeFormAdTargeting",
+              "name": "Page type targeting",
+              "value": "LINEA",
+              "key": "pgtype"
+            },
+            {
+              "@type": "WMXFreeFormAdTargeting",
+              "name": "Position targeting",
+              "value": "LIN_bottomlb",
+              "key": "pos"
+            },
+            {
+              "@type": "WMXLoggedInUserAdTargeting",
+              "name": "LoggedIn User\tAd Targeting",
+              "value": true,
+              "key": "reg"
+            },
+            {
+              "@type": "ContentSlot-AdTargeting",
+              "name": "Department targeting"
+            }
+          ],
+          "@type": "WMXAd",
+          "name": "Ad bottom",
+          "ad": "/149821986/SAMS_CLUB/BUSCAR"
+        },
+        {
+          "id": "dfp-bn-3",
+          "targeting": [
+            {
+              "@type": "WMXFreeFormAdTargeting",
+              "name": "Page type targeting",
+              "value": "LINEA",
+              "key": "pgtype"
+            },
+            {
+              "@type": "WMXFreeFormAdTargeting",
+              "name": "Position targeting",
+              "value": "LIN_sky",
+              "key": "pos"
+            },
+            {
+              "@type": "WMXLoggedInUserAdTargeting",
+              "name": "LoggedIn User\tAd Targeting",
+              "value": true,
+              "key": "reg"
+            },
+            {
+              "@type": "ContentSlot-AdTargeting",
+              "name": "Department targeting"
+            }
+          ],
+          "@type": "WMXAd",
+          "name": "Ad sky",
+          "ad": "/149821986/SAMS_CLUB/BUSCAR"
+        }
+      ]
+    },
+    {
+      "contents": [],
+      "@type": "ContentSlot-Main",
+      "name": "Destacados"
+    },
+    {
+      "contents": [
+        {
+          "id": "dfp-bn-1",
+          "@type": "WMXMainAdPlacement",
+          "name": "Adslot top",
+          "className": "dfp-class"
+        }
+      ],
+      "@type": "ContentSlot-Main",
+      "name": "adslot top"
+    },
+    {
+      "contents": [
+        {
+          "sortOptions": [
+            {
+              "label": "Más buscados",
+              "selected": false,
+              "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83f?Ns=product.topSelling%7C1&_=1516107104459"
+            },
+            {
+              "label": "Más vendidos",
+              "selected": false,
+              "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83f?Ns=product.ratings%7C1&_=1516107104459"
+            },
+            {
+              "label": "Nombre de la A - Z",
+              "selected": false,
+              "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83f?Ns=product.displayText%7C0&_=1516107104459"
+            },
+            {
+              "label": "Nombre de la Z - A",
+              "selected": false,
+              "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83f?Ns=product.displayText%7C1&_=1516107104459"
+            },
+            {
+              "label": "Precio menor a mayor",
+              "selected": false,
+              "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83f?Ns=sku.finalPrice%7C0&_=1516107104459"
+            },
+            {
+              "label": "Precio mayor a menor",
+              "selected": false,
+              "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83f?Ns=sku.finalPrice%7C1&_=1516107104459"
+            }
+          ],
+          "recsPerPage": 12,
+          "totalNumRecs": 63,
+          "firstRecNum": 1,
+          "lastRecNum": 12,
+          "pagingActionTemplate": {
+            "label": null,
+            "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83f?No=%7Boffset%7D&Nrpp=%7BrecordsPerPage%7D&_=1516107104459"
+          },
+          "records": [
+            {
+              "numRecords": 1,
+              "attributes": {
+                "Brand": [
+                  "Samsung"
+                ],
+                "sku.smallImage.url": [
+                  "/images/product-images/img_small/000173104s.jpg"
+                ],
+                "sku.displayName": [
+                  "Smatphone"
+                ],
+                "product.displayName": [
+                  "Smatphone"
+                ],
+                "product.smallImage.url": [
+                  "/images/product-images/img_small/000173104s.jpg"
+                ],
+                "sku.unit_of_measure": [
+                  "eaches"
+                ],
+                "product.seoURL": [
+                  "[/celulares/smatphone-samsung-galaxy-j7-prime-16-gb-at-t/000173104]"
+                ],
+                "product.family": [
+                  "Celulares",
+                  "Celulares y Videojuegos",
+                  "Galaxy"
+                ],
+                "record.type.raw": [
+                  "product",
+                  "sku"
+                ],
+                "sku.weighable": [
+                  "0"
+                ],
+                "HomeDelivery": [
+                  "FX"
+                ],
+                "product.displayText": [
+                  "Smatphone Samsung Galaxy J7 Prime 16 GB AT&T"
+                ],
+                "skuDisplayName": [
+                  "Smatphone Samsung Galaxy J7 Prime 16 GB AT&T"
+                ],
+                "PaymentPlan": [
+                  "12",
+                  "3",
+                  "6"
+                ],
+                "sku.repositoryId": [
+                  "000173104"
+                ],
+                "product.fineline": [
+                  "AT&T"
+                ],
+                "product.department": [
+                  "Celulares y smartphones",
+                  "Meses sin Intereses",
+                  "Samsung"
+                ],
+                "product.repositoryId": [
+                  "0000173104"
+                ],
+                "sku.finalPrice": [
+                  "6918.990000"
+                ],
+                "sku.lastPrice": [
+                  "6918.990000"
+                ],
+                "record.id": [
+                  "sku-000173104..0000173104.catalog20001.es__MX"
+                ]
+              },
+              "records": [
+                {
+                  "numRecords": 0,
+                  "attributes": {
+                    "STR0000009999": [
+                      "SELLABLE"
+                    ],
+                    "skuStatusFlag": [
+                      "A"
+                    ],
+                    "product.seoURL": [
+                      "[/celulares/smatphone-samsung-galaxy-j7-prime-16-gb-at-t/000173104]"
+                    ],
+                    "sku.weighable": [
+                      "0"
+                    ],
+                    "HomeDelivery": [
+                      "FX"
+                    ],
+                    "skuDisplayName": [
+                      "Smatphone Samsung Galaxy J7 Prime 16 GB AT&T"
+                    ],
+                    "sku.isBigItem": [
+                      "0"
+                    ],
+                    "sku.repositoryId": [
+                      "000173104"
+                    ],
+                    "maxQuantity": [
+                      "99.0"
+                    ],
+                    "priceStrikeOff": [
+                      "0.000000"
+                    ],
+                    "product.HomeDelivery": [
+                      "FX"
+                    ],
+                    "sku.finalPrice": [
+                      "6918.990000"
+                    ],
+                    "sku.lastPrice": [
+                      "6918.990000"
+                    ],
+                    "record.spec": [
+                      "sku-000173104..0000173104.catalog20001.es__MX"
+                    ],
+                    "PickAtStore": [
+                      "Pick at Store"
+                    ]
+                  },
+                  "records": null
+                }
+              ]
+            },
+            {
+              "numRecords": 1,
+              "attributes": {
+                "Brand": [
+                  "Samsung"
+                ],
+                "sku.smallImage.url": [
+                  "/images/product-images/img_small/000173111s.jpg"
+                ],
+                "sku.displayName": [
+                  "Smatphone"
+                ],
+                "product.displayName": [
+                  "Smatphone"
+                ],
+                "product.smallImage.url": [
+                  "/images/product-images/img_small/000173111s.jpg"
+                ],
+                "sku.unit_of_measure": [
+                  "eaches"
+                ],
+                "product.seoURL": [
+                  "[/celulares/smatphone-samsung-galaxy-j7-prime-16-gb-at-t/000173111]"
+                ],
+                "product.family": [
+                  "Celulares",
+                  "Celulares y Videojuegos",
+                  "Galaxy"
+                ],
+                "record.type.raw": [
+                  "product",
+                  "sku"
+                ],
+                "sku.weighable": [
+                  "0"
+                ],
+                "HomeDelivery": [
+                  "FX"
+                ],
+                "product.displayText": [
+                  "Smatphone Samsung Galaxy J7 Prime 16 GB AT&T"
+                ],
+                "skuDisplayName": [
+                  "Smatphone Samsung Galaxy J7 Prime 16 GB AT&T"
+                ],
+                "PaymentPlan": [
+                  "12",
+                  "3",
+                  "6"
+                ],
+                "sku.repositoryId": [
+                  "000173111"
+                ],
+                "product.fineline": [
+                  "AT&T"
+                ],
+                "product.department": [
+                  "Celulares y smartphones",
+                  "Meses sin Intereses",
+                  "Samsung"
+                ],
+                "product.repositoryId": [
+                  "0000173111"
+                ],
+                "sku.finalPrice": [
+                  "5499.000000"
+                ],
+                "sku.lastPrice": [
+                  "5499.000000"
+                ],
+                "record.id": [
+                  "sku-000173111..0000173111.catalog20001.es__MX"
+                ]
+              },
+              "records": [
+                {
+                  "numRecords": 0,
+                  "attributes": {
+                    "STR0000009999": [
+                      "SELLABLE"
+                    ],
+                    "skuStatusFlag": [
+                      "A"
+                    ],
+                    "product.seoURL": [
+                      "[/celulares/smatphone-samsung-galaxy-j7-prime-16-gb-at-t/000173111]"
+                    ],
+                    "sku.weighable": [
+                      "0"
+                    ],
+                    "HomeDelivery": [
+                      "FX"
+                    ],
+                    "skuDisplayName": [
+                      "Smatphone Samsung Galaxy J7 Prime 16 GB AT&T"
+                    ],
+                    "sku.isBigItem": [
+                      "0"
+                    ],
+                    "sku.repositoryId": [
+                      "000173111"
+                    ],
+                    "maxQuantity": [
+                      "99.0"
+                    ],
+                    "priceStrikeOff": [
+                      "0.000000"
+                    ],
+                    "product.HomeDelivery": [
+                      "FX"
+                    ],
+                    "sku.finalPrice": [
+                      "5499.000000"
+                    ],
+                    "sku.lastPrice": [
+                      "5499.000000"
+                    ],
+                    "record.spec": [
+                      "sku-000173111..0000173111.catalog20001.es__MX"
+                    ],
+                    "PickAtStore": [
+                      "Pick at Store"
+                    ]
+                  },
+                  "records": null
+                }
+              ]
+            },
+            {
+              "numRecords": 1,
+              "attributes": {
+                "Brand": [
+                  "Samsung"
+                ],
+                "sku.smallImage.url": [
+                  "/images/product-images/img_small/000194805s.jpg"
+                ],
+                "sku.displayName": [
+                  "Smartphone"
+                ],
+                "product.displayName": [
+                  "Smartphone"
+                ],
+                "product.smallImage.url": [
+                  "/images/product-images/img_small/000194805s.jpg"
+                ],
+                "sku.unit_of_measure": [
+                  "eaches"
+                ],
+                "product.seoURL": [
+                  "[/celulares/smartphone-samsung-galaxy-s8-plus-64-gb-4g-lte-at-t/000194805]"
+                ],
+                "product.family": [
+                  "Celulares",
+                  "Celulares y Videojuegos"
+                ],
+                "record.type.raw": [
+                  "product",
+                  "sku"
+                ],
+                "sku.weighable": [
+                  "0"
+                ],
+                "HomeDelivery": [
+                  "FX"
+                ],
+                "product.displayText": [
+                  "Smartphone Samsung Galaxy S8 Plus 64 GB 4G LTE AT&T"
+                ],
+                "skuDisplayName": [
+                  "Smartphone Samsung Galaxy S8 Plus 64 GB 4G LTE AT&T"
+                ],
+                "PaymentPlan": [
+                  "12",
+                  "3",
+                  "6"
+                ],
+                "sku.repositoryId": [
+                  "000194805"
+                ],
+                "product.fineline": [
+                  "AT&T"
+                ],
+                "product.department": [
+                  "Celulares y smartphones",
+                  "Meses sin Intereses"
+                ],
+                "product.repositoryId": [
+                  "0000194805"
+                ],
+                "sku.finalPrice": [
+                  "19699.000000"
+                ],
+                "sku.lastPrice": [
+                  "19699.000000"
+                ],
+                "record.id": [
+                  "sku-000194805..0000194805.catalog20001.es__MX"
+                ]
+              },
+              "records": [
+                {
+                  "numRecords": 0,
+                  "attributes": {
+                    "STR0000009999": [
+                      "SELLABLE"
+                    ],
+                    "skuStatusFlag": [
+                      "A"
+                    ],
+                    "product.seoURL": [
+                      "[/celulares/smartphone-samsung-galaxy-s8-plus-64-gb-4g-lte-at-t/000194805]"
+                    ],
+                    "sku.weighable": [
+                      "0"
+                    ],
+                    "HomeDelivery": [
+                      "FX"
+                    ],
+                    "skuDisplayName": [
+                      "Smartphone Samsung Galaxy S8 Plus 64 GB 4G LTE AT&T"
+                    ],
+                    "sku.isBigItem": [
+                      "0"
+                    ],
+                    "sku.repositoryId": [
+                      "000194805"
+                    ],
+                    "maxQuantity": [
+                      "99.0"
+                    ],
+                    "priceStrikeOff": [
+                      "0.000000"
+                    ],
+                    "product.HomeDelivery": [
+                      "FX"
+                    ],
+                    "sku.finalPrice": [
+                      "19699.000000"
+                    ],
+                    "sku.lastPrice": [
+                      "19699.000000"
+                    ],
+                    "record.spec": [
+                      "sku-000194805..0000194805.catalog20001.es__MX"
+                    ],
+                    "PickAtStore": [
+                      "Pick at Store"
+                    ]
+                  },
+                  "records": null
+                }
+              ]
+            },
+            {
+              "numRecords": 1,
+              "attributes": {
+                "Brand": [
+                  "Huawei"
+                ],
+                "sku.smallImage.url": [
+                  "/images/product-images/img_small/980001599s.jpg"
+                ],
+                "sku.displayName": [
+                  "Smartphone"
+                ],
+                "product.displayName": [
+                  "Smartphone"
+                ],
+                "product.smallImage.url": [
+                  "/images/product-images/img_small/980001599s.jpg"
+                ],
+                "sku.unit_of_measure": [
+                  "eaches"
+                ],
+                "product.seoURL": [
+                  "[/celulares/smartphone-huawei-y5-lite-2017-8-gb-4g-lte-at-t/980001599]"
+                ],
+                "product.family": [
+                  "Celulares"
+                ],
+                "record.type.raw": [
+                  "product",
+                  "sku"
+                ],
+                "sku.weighable": [
+                  "0"
+                ],
+                "HomeDelivery": [
+                  "FX"
+                ],
+                "product.displayText": [
+                  "Smartphone Huawei Y5 Lite 2017 8 GB 4G LTE AT&T"
+                ],
+                "skuDisplayName": [
+                  "Smartphone Huawei Y5 Lite 2017 8 GB 4G LTE AT&T"
+                ],
+                "PaymentPlan": [
+                  "12",
+                  "3",
+                  "6"
+                ],
+                "sku.repositoryId": [
+                  "980001599"
+                ],
+                "product.fineline": [
+                  "AT&T"
+                ],
+                "product.department": [
+                  "Celulares y smartphones"
+                ],
+                "product.repositoryId": [
+                  "0980001599"
+                ],
+                "sku.finalPrice": [
+                  "1999.000000"
+                ],
+                "sku.lastPrice": [
+                  "1999.000000"
+                ],
+                "record.id": [
+                  "sku-980001599..0980001599.catalog20001.es__MX"
+                ]
+              },
+              "records": [
+                {
+                  "numRecords": 0,
+                  "attributes": {
+                    "STR0000009999": [
+                      "SELLABLE"
+                    ],
+                    "skuStatusFlag": [
+                      "A"
+                    ],
+                    "product.seoURL": [
+                      "[/celulares/smartphone-huawei-y5-lite-2017-8-gb-4g-lte-at-t/980001599]"
+                    ],
+                    "sku.weighable": [
+                      "0"
+                    ],
+                    "HomeDelivery": [
+                      "FX"
+                    ],
+                    "skuDisplayName": [
+                      "Smartphone Huawei Y5 Lite 2017 8 GB 4G LTE AT&T"
+                    ],
+                    "sku.isBigItem": [
+                      "0"
+                    ],
+                    "sku.repositoryId": [
+                      "980001599"
+                    ],
+                    "maxQuantity": [
+                      "99.0"
+                    ],
+                    "priceStrikeOff": [
+                      "0.000000"
+                    ],
+                    "product.HomeDelivery": [
+                      "FX"
+                    ],
+                    "sku.finalPrice": [
+                      "1999.000000"
+                    ],
+                    "sku.lastPrice": [
+                      "1999.000000"
+                    ],
+                    "record.spec": [
+                      "sku-980001599..0980001599.catalog20001.es__MX"
+                    ],
+                    "PickAtStore": [
+                      "Pick at Store"
+                    ]
+                  },
+                  "records": null
+                }
+              ]
+            },
+            {
+              "numRecords": 1,
+              "attributes": {
+                "Brand": [
+                  "Samsung"
+                ],
+                "sku.smallImage.url": [
+                  "/images/product-images/img_small/000173118s.jpg"
+                ],
+                "sku.displayName": [
+                  "Smartphone"
+                ],
+                "product.displayName": [
+                  "Smartphone"
+                ],
+                "product.smallImage.url": [
+                  "/images/product-images/img_small/000173118s.jpg"
+                ],
+                "sku.unit_of_measure": [
+                  "eaches"
+                ],
+                "product.seoURL": [
+                  "[/celulares/smartphone-samsung-galaxy-grand-prime-plus-8-gb-at-t/000173118]"
+                ],
+                "product.family": [
+                  "Celulares",
+                  "Galaxy"
+                ],
+                "record.type.raw": [
+                  "product",
+                  "sku"
+                ],
+                "sku.weighable": [
+                  "0"
+                ],
+                "HomeDelivery": [
+                  "FX"
+                ],
+                "product.displayText": [
+                  "Smartphone Samsung Galaxy Grand Prime Plus 8 GB AT&T"
+                ],
+                "skuDisplayName": [
+                  "Smartphone Samsung Galaxy Grand Prime Plus 8 GB AT&T"
+                ],
+                "PaymentPlan": [
+                  "12",
+                  "3",
+                  "6"
+                ],
+                "sku.repositoryId": [
+                  "000173118"
+                ],
+                "product.fineline": [
+                  "AT&T"
+                ],
+                "product.department": [
+                  "Celulares y smartphones",
+                  "Samsung"
+                ],
+                "product.repositoryId": [
+                  "0000173118"
+                ],
+                "sku.finalPrice": [
+                  "2499.000000"
+                ],
+                "sku.lastPrice": [
+                  "2499.000000"
+                ],
+                "record.id": [
+                  "sku-000173118..0000173118.catalog20001.es__MX"
+                ]
+              },
+              "records": [
+                {
+                  "numRecords": 0,
+                  "attributes": {
+                    "STR0000009999": [
+                      "SELLABLE"
+                    ],
+                    "skuStatusFlag": [
+                      "A"
+                    ],
+                    "product.seoURL": [
+                      "[/celulares/smartphone-samsung-galaxy-grand-prime-plus-8-gb-at-t/000173118]"
+                    ],
+                    "sku.weighable": [
+                      "0"
+                    ],
+                    "HomeDelivery": [
+                      "FX"
+                    ],
+                    "skuDisplayName": [
+                      "Smartphone Samsung Galaxy Grand Prime Plus 8 GB AT&T"
+                    ],
+                    "sku.isBigItem": [
+                      "0"
+                    ],
+                    "sku.repositoryId": [
+                      "000173118"
+                    ],
+                    "maxQuantity": [
+                      "99.0"
+                    ],
+                    "priceStrikeOff": [
+                      "0.000000"
+                    ],
+                    "product.HomeDelivery": [
+                      "FX"
+                    ],
+                    "sku.finalPrice": [
+                      "2499.000000"
+                    ],
+                    "sku.lastPrice": [
+                      "2499.000000"
+                    ],
+                    "record.spec": [
+                      "sku-000173118..0000173118.catalog20001.es__MX"
+                    ],
+                    "PickAtStore": [
+                      "Pick at Store"
+                    ]
+                  },
+                  "records": null
+                }
+              ]
+            },
+            {
+              "numRecords": 1,
+              "attributes": {
+                "Brand": [
+                  "Motorola"
+                ],
+                "sku.smallImage.url": [
+                  "/images/product-images/img_small/980003397s.jpg"
+                ],
+                "sku.displayName": [
+                  "Smartphone"
+                ],
+                "product.displayName": [
+                  "Smartphone"
+                ],
+                "product.smallImage.url": [
+                  "/images/product-images/img_small/980003397s.jpg"
+                ],
+                "sku.unit_of_measure": [
+                  "eaches"
+                ],
+                "product.seoURL": [
+                  "[/celulares/smartphone-motorola-moto-z2-play-azul-at-t/980003397]"
+                ],
+                "product.family": [
+                  "Celulares"
+                ],
+                "record.type.raw": [
+                  "product",
+                  "sku"
+                ],
+                "sku.weighable": [
+                  "0"
+                ],
+                "HomeDelivery": [
+                  "FX"
+                ],
+                "product.displayText": [
+                  "Smartphone Motorola Moto Z2 Play Azul AT&T"
+                ],
+                "skuDisplayName": [
+                  "Smartphone Motorola Moto Z2 Play Azul AT&T"
+                ],
+                "PaymentPlan": [
+                  "12",
+                  "3",
+                  "6"
+                ],
+                "sku.repositoryId": [
+                  "980003397"
+                ],
+                "product.fineline": [
+                  "AT&T"
+                ],
+                "product.department": [
+                  "Celulares y smartphones"
+                ],
+                "product.repositoryId": [
+                  "0980003397"
+                ],
+                "sku.finalPrice": [
+                  "8998.990000"
+                ],
+                "sku.lastPrice": [
+                  "8998.990000"
+                ],
+                "record.id": [
+                  "sku-980003397..0980003397.catalog20001.es__MX"
+                ]
+              },
+              "records": [
+                {
+                  "numRecords": 0,
+                  "attributes": {
+                    "STR0000009999": [
+                      "SELLABLE"
+                    ],
+                    "skuStatusFlag": [
+                      "A"
+                    ],
+                    "product.seoURL": [
+                      "[/celulares/smartphone-motorola-moto-z2-play-azul-at-t/980003397]"
+                    ],
+                    "sku.weighable": [
+                      "0"
+                    ],
+                    "HomeDelivery": [
+                      "FX"
+                    ],
+                    "skuDisplayName": [
+                      "Smartphone Motorola Moto Z2 Play Azul AT&T"
+                    ],
+                    "sku.isBigItem": [
+                      "0"
+                    ],
+                    "sku.repositoryId": [
+                      "980003397"
+                    ],
+                    "maxQuantity": [
+                      "99.0"
+                    ],
+                    "priceStrikeOff": [
+                      "0.000000"
+                    ],
+                    "product.HomeDelivery": [
+                      "FX"
+                    ],
+                    "sku.finalPrice": [
+                      "8998.990000"
+                    ],
+                    "sku.lastPrice": [
+                      "8998.990000"
+                    ],
+                    "record.spec": [
+                      "sku-980003397..0980003397.catalog20001.es__MX"
+                    ],
+                    "PickAtStore": [
+                      "Pick at Store"
+                    ]
+                  },
+                  "records": null
+                }
+              ]
+            },
+            {
+              "numRecords": 1,
+              "attributes": {
+                "Brand": [
+                  "Hisense"
+                ],
+                "sku.smallImage.url": [
+                  "/images/product-images/img_small/980002291s.jpg"
+                ],
+                "sku.displayName": [
+                  "Smartphone"
+                ],
+                "product.displayName": [
+                  "Smartphone"
+                ],
+                "product.smallImage.url": [
+                  "/images/product-images/img_small/980002291s.jpg"
+                ],
+                "sku.unit_of_measure": [
+                  "eaches"
+                ],
+                "product.seoURL": [
+                  "[/celulares/smartphone-hisense-f8-mini-16-gb-4g-lte-at-t/980002291]"
+                ],
+                "product.family": [
+                  "Celulares",
+                  "Tecnologia_MS"
+                ],
+                "record.type.raw": [
+                  "product",
+                  "sku"
+                ],
+                "sku.weighable": [
+                  "0"
+                ],
+                "HomeDelivery": [
+                  "FX"
+                ],
+                "product.displayText": [
+                  "Smartphone Hisense F8 Mini 16 GB 4G LTE AT&T"
+                ],
+                "skuDisplayName": [
+                  "Smartphone Hisense F8 Mini 16 GB 4G LTE AT&T"
+                ],
+                "PaymentPlan": [
+                  "12",
+                  "3",
+                  "6"
+                ],
+                "sku.repositoryId": [
+                  "980002291"
+                ],
+                "product.fineline": [
+                  "AT&T"
+                ],
+                "product.department": [
+                  "Categorías_Exclusivas_App",
+                  "Celulares y smartphones",
+                  "RegalosNavideños_MS"
+                ],
+                "product.repositoryId": [
+                  "0980002291"
+                ],
+                "sku.finalPrice": [
+                  "2998.990000"
+                ],
+                "sku.lastPrice": [
+                  "2998.990000"
+                ],
+                "record.id": [
+                  "sku-980002291..0980002291.catalog20001.es__MX"
+                ]
+              },
+              "records": [
+                {
+                  "numRecords": 0,
+                  "attributes": {
+                    "STR0000009999": [
+                      "SELLABLE"
+                    ],
+                    "skuStatusFlag": [
+                      "A"
+                    ],
+                    "product.seoURL": [
+                      "[/celulares/smartphone-hisense-f8-mini-16-gb-4g-lte-at-t/980002291]"
+                    ],
+                    "sku.weighable": [
+                      "0"
+                    ],
+                    "HomeDelivery": [
+                      "FX"
+                    ],
+                    "skuDisplayName": [
+                      "Smartphone Hisense F8 Mini 16 GB 4G LTE AT&T"
+                    ],
+                    "sku.isBigItem": [
+                      "0"
+                    ],
+                    "sku.repositoryId": [
+                      "980002291"
+                    ],
+                    "maxQuantity": [
+                      "99.0"
+                    ],
+                    "priceStrikeOff": [
+                      "0.000000"
+                    ],
+                    "product.HomeDelivery": [
+                      "FX"
+                    ],
+                    "sku.finalPrice": [
+                      "2998.990000"
+                    ],
+                    "sku.lastPrice": [
+                      "2998.990000"
+                    ],
+                    "record.spec": [
+                      "sku-980002291..0980002291.catalog20001.es__MX"
+                    ],
+                    "PickAtStore": [
+                      "Pick at Store"
+                    ]
+                  },
+                  "records": null
+                }
+              ]
+            },
+            {
+              "numRecords": 1,
+              "attributes": {
+                "Brand": [
+                  "LG"
+                ],
+                "sku.smallImage.url": [
+                  "/images/product-images/img_small/000137447s.jpg"
+                ],
+                "sku.displayName": [
+                  "Smartphone"
+                ],
+                "product.displayName": [
+                  "Smartphone"
+                ],
+                "product.smallImage.url": [
+                  "/images/product-images/img_small/000137447s.jpg"
+                ],
+                "sku.unit_of_measure": [
+                  "eaches"
+                ],
+                "product.seoURL": [
+                  "[/celulares/smartphone-lg-zone-16-gb-at-t/000137447]"
+                ],
+                "product.family": [
+                  "Celulares"
+                ],
+                "record.type.raw": [
+                  "product",
+                  "sku"
+                ],
+                "sku.weighable": [
+                  "0"
+                ],
+                "HomeDelivery": [
+                  "FX"
+                ],
+                "product.displayText": [
+                  "Smartphone LG Zone 16 GB AT&T"
+                ],
+                "skuDisplayName": [
+                  "Smartphone LG Zone 16 GB AT&T"
+                ],
+                "PaymentPlan": [
+                  "12",
+                  "3",
+                  "6"
+                ],
+                "sku.repositoryId": [
+                  "000137447"
+                ],
+                "product.fineline": [
+                  "AT&T"
+                ],
+                "product.department": [
+                  "Celulares y smartphones"
+                ],
+                "product.repositoryId": [
+                  "0000137447"
+                ],
+                "sku.finalPrice": [
+                  "2999.010000"
+                ],
+                "sku.lastPrice": [
+                  "2999.010000"
+                ],
+                "record.id": [
+                  "sku-000137447..0000137447.catalog20001.es__MX"
+                ]
+              },
+              "records": [
+                {
+                  "numRecords": 0,
+                  "attributes": {
+                    "STR0000009999": [
+                      "SELLABLE"
+                    ],
+                    "skuStatusFlag": [
+                      "A"
+                    ],
+                    "product.seoURL": [
+                      "[/celulares/smartphone-lg-zone-16-gb-at-t/000137447]"
+                    ],
+                    "sku.weighable": [
+                      "0"
+                    ],
+                    "HomeDelivery": [
+                      "FX"
+                    ],
+                    "skuDisplayName": [
+                      "Smartphone LG Zone 16 GB AT&T"
+                    ],
+                    "sku.isBigItem": [
+                      "0"
+                    ],
+                    "sku.repositoryId": [
+                      "000137447"
+                    ],
+                    "maxQuantity": [
+                      "99.0"
+                    ],
+                    "priceStrikeOff": [
+                      "0.000000"
+                    ],
+                    "product.HomeDelivery": [
+                      "FX"
+                    ],
+                    "sku.finalPrice": [
+                      "2999.010000"
+                    ],
+                    "sku.lastPrice": [
+                      "2999.010000"
+                    ],
+                    "record.spec": [
+                      "sku-000137447..0000137447.catalog20001.es__MX"
+                    ],
+                    "PickAtStore": [
+                      "Pick at Store"
+                    ]
+                  },
+                  "records": null
+                }
+              ]
+            },
+            {
+              "numRecords": 1,
+              "attributes": {
+                "Brand": [
+                  "Huawei"
+                ],
+                "sku.smallImage.url": [
+                  "/images/product-images/img_small/000204939s.jpg"
+                ],
+                "sku.displayName": [
+                  "Smartphone"
+                ],
+                "product.displayName": [
+                  "Smartphone"
+                ],
+                "product.smallImage.url": [
+                  "/images/product-images/img_small/000204939s.jpg"
+                ],
+                "sku.unit_of_measure": [
+                  "eaches"
+                ],
+                "product.seoURL": [
+                  "[/celulares/smartphone-huawei-p10-lite-32-gb-lte-at-t/000204939]"
+                ],
+                "product.family": [
+                  "Celulares",
+                  "Celulares y Videojuegos"
+                ],
+                "record.type.raw": [
+                  "product",
+                  "sku"
+                ],
+                "sku.weighable": [
+                  "0"
+                ],
+                "HomeDelivery": [
+                  "FX"
+                ],
+                "product.displayText": [
+                  "Smartphone Huawei P10 Lite 32 GB LTE AT&T"
+                ],
+                "skuDisplayName": [
+                  "Smartphone Huawei P10 Lite 32 GB LTE AT&T"
+                ],
+                "PaymentPlan": [
+                  "12",
+                  "3",
+                  "6"
+                ],
+                "sku.repositoryId": [
+                  "000204939"
+                ],
+                "product.fineline": [
+                  "AT&T"
+                ],
+                "product.department": [
+                  "Celulares y smartphones",
+                  "Meses sin Intereses"
+                ],
+                "product.repositoryId": [
+                  "0000204939"
+                ],
+                "sku.finalPrice": [
+                  "5499.000000"
+                ],
+                "sku.lastPrice": [
+                  "5499.000000"
+                ],
+                "record.id": [
+                  "sku-000204939..0000204939.catalog20001.es__MX"
+                ]
+              },
+              "records": [
+                {
+                  "numRecords": 0,
+                  "attributes": {
+                    "STR0000009999": [
+                      "SELLABLE"
+                    ],
+                    "skuStatusFlag": [
+                      "A"
+                    ],
+                    "product.seoURL": [
+                      "[/celulares/smartphone-huawei-p10-lite-32-gb-lte-at-t/000204939]"
+                    ],
+                    "sku.weighable": [
+                      "0"
+                    ],
+                    "HomeDelivery": [
+                      "FX"
+                    ],
+                    "skuDisplayName": [
+                      "Smartphone Huawei P10 Lite 32 GB LTE AT&T"
+                    ],
+                    "sku.isBigItem": [
+                      "0"
+                    ],
+                    "sku.repositoryId": [
+                      "000204939"
+                    ],
+                    "maxQuantity": [
+                      "99.0"
+                    ],
+                    "priceStrikeOff": [
+                      "0.000000"
+                    ],
+                    "product.HomeDelivery": [
+                      "FX"
+                    ],
+                    "sku.finalPrice": [
+                      "5499.000000"
+                    ],
+                    "sku.lastPrice": [
+                      "5499.000000"
+                    ],
+                    "record.spec": [
+                      "sku-000204939..0000204939.catalog20001.es__MX"
+                    ],
+                    "PickAtStore": [
+                      "Pick at Store"
+                    ]
+                  },
+                  "records": null
+                }
+              ]
+            },
+            {
+              "numRecords": 1,
+              "attributes": {
+                "Brand": [
+                  "Samsung"
+                ],
+                "sku.smallImage.url": [
+                  "/images/product-images/img_small/000194819s.jpg"
+                ],
+                "sku.displayName": [
+                  "Smartphone"
+                ],
+                "product.displayName": [
+                  "Smartphone"
+                ],
+                "product.smallImage.url": [
+                  "/images/product-images/img_small/000194819s.jpg"
+                ],
+                "sku.unit_of_measure": [
+                  "eaches"
+                ],
+                "product.seoURL": [
+                  "[/celulares/smartphone-samsung-galaxy-s8-plus-64-gb-4g-lte-at-t/000194819]"
+                ],
+                "product.family": [
+                  "Celulares",
+                  "Celulares y Videojuegos"
+                ],
+                "record.type.raw": [
+                  "product",
+                  "sku"
+                ],
+                "sku.weighable": [
+                  "0"
+                ],
+                "HomeDelivery": [
+                  "FX"
+                ],
+                "product.displayText": [
+                  "Smartphone Samsung Galaxy S8 Plus 64 GB 4G LTE AT&T"
+                ],
+                "skuDisplayName": [
+                  "Smartphone Samsung Galaxy S8 Plus 64 GB 4G LTE AT&T"
+                ],
+                "PaymentPlan": [
+                  "12",
+                  "3",
+                  "6"
+                ],
+                "sku.repositoryId": [
+                  "000194819"
+                ],
+                "product.fineline": [
+                  "AT&T"
+                ],
+                "product.department": [
+                  "Celulares y smartphones",
+                  "Meses sin Intereses"
+                ],
+                "product.repositoryId": [
+                  "0000194819"
+                ],
+                "sku.finalPrice": [
+                  "19699.000000"
+                ],
+                "sku.lastPrice": [
+                  "19699.000000"
+                ],
+                "record.id": [
+                  "sku-000194819..0000194819.catalog20001.es__MX"
+                ]
+              },
+              "records": [
+                {
+                  "numRecords": 0,
+                  "attributes": {
+                    "STR0000009999": [
+                      "SELLABLE"
+                    ],
+                    "skuStatusFlag": [
+                      "A"
+                    ],
+                    "product.seoURL": [
+                      "[/celulares/smartphone-samsung-galaxy-s8-plus-64-gb-4g-lte-at-t/000194819]"
+                    ],
+                    "sku.weighable": [
+                      "0"
+                    ],
+                    "HomeDelivery": [
+                      "FX"
+                    ],
+                    "skuDisplayName": [
+                      "Smartphone Samsung Galaxy S8 Plus 64 GB 4G LTE AT&T"
+                    ],
+                    "sku.isBigItem": [
+                      "0"
+                    ],
+                    "sku.repositoryId": [
+                      "000194819"
+                    ],
+                    "maxQuantity": [
+                      "99.0"
+                    ],
+                    "priceStrikeOff": [
+                      "0.000000"
+                    ],
+                    "product.HomeDelivery": [
+                      "FX"
+                    ],
+                    "sku.finalPrice": [
+                      "19699.000000"
+                    ],
+                    "sku.lastPrice": [
+                      "19699.000000"
+                    ],
+                    "record.spec": [
+                      "sku-000194819..0000194819.catalog20001.es__MX"
+                    ],
+                    "PickAtStore": [
+                      "Pick at Store"
+                    ]
+                  },
+                  "records": null
+                }
+              ]
+            },
+            {
+              "numRecords": 1,
+              "attributes": {
+                "Brand": [
+                  "Samsung"
+                ],
+                "sku.smallImage.url": [
+                  "/images/product-images/img_small/000173139s.jpg"
+                ],
+                "sku.displayName": [
+                  "Smartphone"
+                ],
+                "product.displayName": [
+                  "Smartphone"
+                ],
+                "product.smallImage.url": [
+                  "/images/product-images/img_small/000173139s.jpg"
+                ],
+                "sku.unit_of_measure": [
+                  "eaches"
+                ],
+                "product.seoURL": [
+                  "[/celulares/smartphone-samsung-galaxy-grand-prime-plus-8-gb-at-t/000173139]"
+                ],
+                "product.family": [
+                  "Celulares",
+                  "Galaxy"
+                ],
+                "record.type.raw": [
+                  "product",
+                  "sku"
+                ],
+                "sku.weighable": [
+                  "0"
+                ],
+                "HomeDelivery": [
+                  "FX"
+                ],
+                "product.displayText": [
+                  "Smartphone Samsung Galaxy Grand Prime Plus 8 GB AT&T"
+                ],
+                "skuDisplayName": [
+                  "Smartphone Samsung Galaxy Grand Prime Plus 8 GB AT&T"
+                ],
+                "PaymentPlan": [
+                  "12",
+                  "3",
+                  "6"
+                ],
+                "sku.repositoryId": [
+                  "000173139"
+                ],
+                "product.fineline": [
+                  "AT&T"
+                ],
+                "product.department": [
+                  "Celulares y smartphones",
+                  "Samsung"
+                ],
+                "product.repositoryId": [
+                  "0000173139"
+                ],
+                "sku.finalPrice": [
+                  "2499.000000"
+                ],
+                "sku.lastPrice": [
+                  "2499.000000"
+                ],
+                "record.id": [
+                  "sku-000173139..0000173139.catalog20001.es__MX"
+                ]
+              },
+              "records": [
+                {
+                  "numRecords": 0,
+                  "attributes": {
+                    "STR0000009999": [
+                      "SELLABLE"
+                    ],
+                    "skuStatusFlag": [
+                      "A"
+                    ],
+                    "product.seoURL": [
+                      "[/celulares/smartphone-samsung-galaxy-grand-prime-plus-8-gb-at-t/000173139]"
+                    ],
+                    "sku.weighable": [
+                      "0"
+                    ],
+                    "HomeDelivery": [
+                      "FX"
+                    ],
+                    "skuDisplayName": [
+                      "Smartphone Samsung Galaxy Grand Prime Plus 8 GB AT&T"
+                    ],
+                    "sku.isBigItem": [
+                      "0"
+                    ],
+                    "sku.repositoryId": [
+                      "000173139"
+                    ],
+                    "maxQuantity": [
+                      "99.0"
+                    ],
+                    "priceStrikeOff": [
+                      "0.000000"
+                    ],
+                    "product.HomeDelivery": [
+                      "FX"
+                    ],
+                    "sku.finalPrice": [
+                      "2499.000000"
+                    ],
+                    "sku.lastPrice": [
+                      "2499.000000"
+                    ],
+                    "record.spec": [
+                      "sku-000173139..0000173139.catalog20001.es__MX"
+                    ],
+                    "PickAtStore": [
+                      "Pick at Store"
+                    ]
+                  },
+                  "records": null
+                }
+              ]
+            },
+            {
+              "numRecords": 1,
+              "attributes": {
+                "Brand": [
+                  "Samsung"
+                ],
+                "sku.smallImage.url": [
+                  "/images/product-images/img_small/000194784s.jpg"
+                ],
+                "sku.displayName": [
+                  "Smartphone"
+                ],
+                "product.displayName": [
+                  "Smartphone"
+                ],
+                "product.smallImage.url": [
+                  "/images/product-images/img_small/000194784s.jpg"
+                ],
+                "sku.unit_of_measure": [
+                  "eaches"
+                ],
+                "product.seoURL": [
+                  "[/celulares/smartphone-samsung-galaxy-s8-64-gb-4g-lte-at-t/000194784]"
+                ],
+                "product.family": [
+                  "Celulares",
+                  "Celulares y Videojuegos"
+                ],
+                "record.type.raw": [
+                  "product",
+                  "sku"
+                ],
+                "sku.weighable": [
+                  "0"
+                ],
+                "HomeDelivery": [
+                  "FX"
+                ],
+                "product.displayText": [
+                  "Smartphone Samsung Galaxy S8 64 GB 4G LTE AT&T"
+                ],
+                "skuDisplayName": [
+                  "Smartphone Samsung Galaxy S8 64 GB 4G LTE AT&T"
+                ],
+                "PaymentPlan": [
+                  "12",
+                  "3",
+                  "6"
+                ],
+                "sku.repositoryId": [
+                  "000194784"
+                ],
+                "product.fineline": [
+                  "AT&T"
+                ],
+                "product.department": [
+                  "Celulares y smartphones",
+                  "Meses sin Intereses"
+                ],
+                "product.repositoryId": [
+                  "0000194784"
+                ],
+                "sku.finalPrice": [
+                  "17299.000000"
+                ],
+                "sku.lastPrice": [
+                  "17299.000000"
+                ],
+                "record.id": [
+                  "sku-000194784..0000194784.catalog20001.es__MX"
+                ]
+              },
+              "records": [
+                {
+                  "numRecords": 0,
+                  "attributes": {
+                    "STR0000009999": [
+                      "SELLABLE"
+                    ],
+                    "skuStatusFlag": [
+                      "A"
+                    ],
+                    "product.seoURL": [
+                      "[/celulares/smartphone-samsung-galaxy-s8-64-gb-4g-lte-at-t/000194784]"
+                    ],
+                    "sku.weighable": [
+                      "0"
+                    ],
+                    "HomeDelivery": [
+                      "FX"
+                    ],
+                    "skuDisplayName": [
+                      "Smartphone Samsung Galaxy S8 64 GB 4G LTE AT&T"
+                    ],
+                    "sku.isBigItem": [
+                      "0"
+                    ],
+                    "sku.repositoryId": [
+                      "000194784"
+                    ],
+                    "maxQuantity": [
+                      "99.0"
+                    ],
+                    "priceStrikeOff": [
+                      "0.000000"
+                    ],
+                    "product.HomeDelivery": [
+                      "FX"
+                    ],
+                    "sku.finalPrice": [
+                      "17299.000000"
+                    ],
+                    "sku.lastPrice": [
+                      "17299.000000"
+                    ],
+                    "record.spec": [
+                      "sku-000194784..0000194784.catalog20001.es__MX"
+                    ],
+                    "PickAtStore": [
+                      "Pick at Store"
+                    ]
+                  },
+                  "records": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": "ContentSlot-Main",
+      "name": "ResultsList"
+    },
+    {
+      "contents": [],
+      "@type": "ContentSlot-Main",
+      "name": "Main Content Slot"
+    },
+    {
+      "contents": [],
+      "@type": "ContentSlot-Main",
+      "name": "Main Content Slot"
+    }
+  ],
+  "title": "Celulares-y-smartphones-Celulares-AT&T-",
+  "rightArea": [],
+  "footerArea": [
+    {
+      "contents": [
+        {
+          "id": "dfp-bn-2",
+          "@type": "WMXMainAdPlacement",
+          "name": "Adslot top",
+          "className": "dfp-class"
+        }
+      ],
+      "@type": "ContentSlot-Header",
+      "name": "Adslot bottom"
+    },
+    {
+      "contents": [
+        {
+          "content": "<div class=\"margin-40\">\n<h2><b>Descubre la gran variedad de Celulares y Accesorios para tu Smartphone que tenemos para ti en Sam&#39;s Club</b></h2>\n\n<p>Hoy en d&iacute;a ya no hay pretexto para no tener el <strong>celular </strong>de tus sue&ntilde;os, ese que te permitir&aacute; estar en contacto con amigos y familiares siempre que lo necesites, ese con el que podr&aacute;s tomarte la foto del recuerdo o grabar momentos divertidos con tus seres queridos, es por eso que en nuestra tienda e l&iacute;nea podr&aacute;s encontrar&nbsp;los <b>M&oacute;viles </b>y accesorios que tanto has estado buscando y podr&aacute;s estrenarlos con exclusivos beneficios que tu <a href=\"https://www.sams.com.mx/hazte-socio\">Membres&iacute;a </a>te garantiza.</p>\n\n<p>A las ofertas en Sam&#39;s Club les decimos beneficios porque consentir al socio es nuestra prioridad. Por ello, no dejes pasar la oportunidad de ahorrar con todos los beneficios exclusivos que tu membres&iacute;a te ofrecen y compra en l&iacute;nea los<strong> </strong><strong>celulares desbloqueados</strong>&nbsp;con la &uacute;ltima tecnolog&iacute;a&nbsp;y los<strong>&nbsp;</strong><strong>modelos de celulares​</strong>&nbsp;de las mejores compa&ntilde;&iacute;as telef&oacute;nicas como&nbsp;Telcel, A&amp;T, Movistar y m&aacute;s que sin duda te brindar&aacute;n un excelente servicio y los mejores smartphones de gama alta. C&oacute;mpralos en internet en tu Club Favorito, porque con nuestros grandes ahorros, hasta los ya famosos Smartwatches vas a pedir.</p>\n\n<p>Olv&iacute;date de andar cazando ofertas, promociones y descuentos, no es necesario. En Sam&#39;s nos tomamos en serio la misi&oacute;n de que estrenes y ahorres al hacer tus <b>compras online</b>, incluso cuando quieras cambiar de celular. Ya sea que est&eacute;s en busca del m&aacute;s reciente <a href=\"\" https:=\"\" iphone=\"\" smartphones-y-accesorios=\"\" www.sams.com.mx=\"\">iPhone</a> o de los <a href=\"\" https:=\"\" samsung=\"\" smartphones-y-accesorios=\"\" www.sams.com.mx=\"\">celulares Samsung</a>, LG o Huawei de los que tanto hablan, en este, tu Club, podr&aacute;s comprarlo con todo y sus accesorios al precio m&aacute;s bajo.</p>\n\n<p>Equ&iacute;pate con cables, cargadores y <b>bases para celulares</b>, en nuestra secci&oacute;n de <a accesorios-celulares=\"\" href=\"\" https:=\"\" smartphones-y-accesorios=\"\" www.sams.com.mx=\"\">accesorios de celulares</a> tenemos los ahorros con los que comprar&aacute;s de todo sin culpa alguna. No lo pienses m&aacute;s y disfruta los beneficios que tu Sam&#39;s m&aacute;s cercano siempre te da, ahora desde la comodidad de tu hogar.</p>\n\n<h3>Compra la mejor selecci&oacute;n de Celulares y Accesorios con los beneficios exclusivos que Sam&#39;s Club te garantizan. Sam&#39;s Club te da m&aacute;s</h3>\n</div>",
+          "@type": "RichTextMain",
+          "name": "Rich Text"
+        }
+      ],
+      "@type": "ContentSlot-Header",
+      "name": "Header Content Slot"
+    }
+  ],
+  "name": "WMX-Three-Column Page",
+  "leftArea": [
+    {
+      "contents": [
+        {
+          "navigation": [
+            {
+              "multiselect": null,
+              "refinements": [
+                {
+                  "count": 63,
+                  "multiselect": false,
+                  "label": "FX",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z141z2?_=1516107104459",
+                  "dimensionName": null
+                }
+              ],
+              "displayName": "Entrega a domicillio",
+              "dimensionName": "product.HomeDelivery"
+            },
+            {
+              "multiselect": null,
+              "refinements": [
+                {
+                  "count": 63,
+                  "multiselect": false,
+                  "label": "Pick at Store",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z141yx?_=1516107104459",
+                  "dimensionName": null
+                }
+              ],
+              "displayName": "Recogida y entrega",
+              "dimensionName": "product.pickAtStore"
+            },
+            {
+              "multiselect": null,
+              "refinements": [
+                {
+                  "count": 44,
+                  "multiselect": true,
+                  "label": "Más de 800",
+                  "properties": {
+                    "DGraph.Strata": "1"
+                  },
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZj?_=1516107104459",
+                  "dimensionName": null
+                }
+              ],
+              "displayName": "Price",
+              "dimensionName": "product.price_range"
+            },
+            {
+              "multiselect": null,
+              "refinements": [
+                {
+                  "count": 63,
+                  "multiselect": false,
+                  "label": "12",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13y29?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 63,
+                  "multiselect": false,
+                  "label": "6",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13x8l?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 63,
+                  "multiselect": false,
+                  "label": "3",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13x5q?_=1516107104459",
+                  "dimensionName": null
+                }
+              ],
+              "displayName": "Planes de pago",
+              "dimensionName": "product.paymentPlans"
+            },
+            {
+              "multiselect": null,
+              "refinements": [
+                {
+                  "count": 19,
+                  "multiselect": true,
+                  "label": "Samsung",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z141kz?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 12,
+                  "multiselect": true,
+                  "label": "Apple",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z141f3?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 11,
+                  "multiselect": true,
+                  "label": "Huawei",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z141g8?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 9,
+                  "multiselect": true,
+                  "label": "ZTE",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z140bc?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 5,
+                  "multiselect": true,
+                  "label": "LG",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z141i3?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 3,
+                  "multiselect": true,
+                  "label": "Hisense",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13zmh?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 2,
+                  "multiselect": true,
+                  "label": "Motorola",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z140h7?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 2,
+                  "multiselect": true,
+                  "label": "Alcatel",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z140c2?_=1516107104459",
+                  "dimensionName": null
+                }
+              ],
+              "displayName": "Marca",
+              "dimensionName": "Brand"
+            },
+            {
+              "multiselect": null,
+              "refinements": [
+                {
+                  "count": 21,
+                  "multiselect": true,
+                  "label": "2 GB",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wuy?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 9,
+                  "multiselect": true,
+                  "label": "1 GB",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wuw?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 7,
+                  "multiselect": true,
+                  "label": "3 GB",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wv5?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 5,
+                  "multiselect": true,
+                  "label": "4 GB",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wso?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 3,
+                  "multiselect": true,
+                  "label": "1.5 GB",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wtv?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 2,
+                  "multiselect": true,
+                  "label": "6 GB",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wno?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 2,
+                  "multiselect": true,
+                  "label": "2GB",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wn5?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 2,
+                  "multiselect": true,
+                  "label": "4GB",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13w4h?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 2,
+                  "multiselect": true,
+                  "label": "1GB",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13vbr?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 1,
+                  "multiselect": true,
+                  "label": "2.8GB",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13uw2?_=1516107104459",
+                  "dimensionName": null
+                }
+              ],
+              "displayName": "Capacidad memoria RAM",
+              "dimensionName": "Capacidad_Memoria_RAM"
+            },
+            {
+              "multiselect": null,
+              "refinements": [
+                {
+                  "count": 19,
+                  "multiselect": true,
+                  "label": "Negro",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13x16?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 17,
+                  "multiselect": true,
+                  "label": "Dorado",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wv9?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 6,
+                  "multiselect": true,
+                  "label": "Rosa",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wrw?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 5,
+                  "multiselect": true,
+                  "label": "Gris",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13x0v?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 3,
+                  "multiselect": true,
+                  "label": "Violeta",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13vzl?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 2,
+                  "multiselect": true,
+                  "label": "Blanco",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13x2o?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 2,
+                  "multiselect": true,
+                  "label": "Plateado",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13x2l?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 2,
+                  "multiselect": true,
+                  "label": "Azul",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13x11?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 2,
+                  "multiselect": true,
+                  "label": "Negro Mate",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wn3?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 1,
+                  "multiselect": true,
+                  "label": "Rojo",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13x25?_=1516107104459",
+                  "dimensionName": null
+                }
+              ],
+              "displayName": "Color",
+              "dimensionName": "Color"
+            },
+            {
+              "multiselect": null,
+              "refinements": [
+                {
+                  "count": 19,
+                  "multiselect": true,
+                  "label": "1280 x 720",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wrt?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 9,
+                  "multiselect": true,
+                  "label": "1920 x 1080",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wuk?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 9,
+                  "multiselect": true,
+                  "label": "1080 x 1920",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wtj?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 5,
+                  "multiselect": true,
+                  "label": "1334 x 750",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13woi?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 4,
+                  "multiselect": true,
+                  "label": "540 x 960",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wux?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 2,
+                  "multiselect": true,
+                  "label": "1280x720",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wsx?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 2,
+                  "multiselect": true,
+                  "label": "720 x 1080",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wp2?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 2,
+                  "multiselect": true,
+                  "label": "854x480",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wp0?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 1,
+                  "multiselect": true,
+                  "label": "1280x120",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wth?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 1,
+                  "multiselect": true,
+                  "label": "1920x1080",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wpz?_=1516107104459",
+                  "dimensionName": null
+                }
+              ],
+              "displayName": "Resolución",
+              "dimensionName": "Resoluci_n"
+            },
+            {
+              "multiselect": null,
+              "refinements": [
+                {
+                  "count": 25,
+                  "multiselect": true,
+                  "label": "5\"",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wuz?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 16,
+                  "multiselect": true,
+                  "label": "5.5\"",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wtw?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 6,
+                  "multiselect": true,
+                  "label": "5.2\"",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wti?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 6,
+                  "multiselect": true,
+                  "label": "4.7\"",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13woh?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 4,
+                  "multiselect": true,
+                  "label": "5.8\"",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wa8?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 2,
+                  "multiselect": true,
+                  "label": "6.2\"",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wa7?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 2,
+                  "multiselect": true,
+                  "label": "6.3\"",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13vfj?_=1516107104459",
+                  "dimensionName": null
+                },
+                {
+                  "count": 1,
+                  "multiselect": true,
+                  "label": "5.16\"",
+                  "properties": {},
+                  "navigationState": "/celulares-y-smartphones/celulares/at-t/_/N-83fZ1z13wq6?_=1516107104459",
+                  "dimensionName": null
+                }
+              ],
+              "displayName": "Tamaño de Pantalla",
+              "dimensionName": "Tama_o_de_Pantalla"
+            },
+            {
+              "enabled": true,
+              "refinements": null,
+              "@type": "WMXPriceSlider",
+              "boundaries": [
+                {
+                  "@type": "DynamicRangeBoundary",
+                  "name": "upperBound",
+                  "value": "23499.000000"
+                },
+                {
+                  "@type": "DynamicRangeBoundary",
+                  "name": "lowerBound",
+                  "value": "1943.000000"
+                }
+              ],
+              "name": "Price",
+              "sliderMax": "1000",
+              "priceProperty": "sku.finalPrice",
+              "sliderMin": "0"
+            },
+            {
+              "refinements": [
+                {
+                  "count": 63,
+                  "multiselect": false,
+                  "label": "AT&T",
+                  "properties": {
+                    "selected": true
+                  },
+                  "navigationState": "?_=1516107104459",
+                  "dimensionName": null
+                }
+              ],
+              "@type": "RefinementMenu",
+              "name": "Categoría",
+              "displayName": "Categoría",
+              "dimensionName": "Categoría"
+            }
+          ],
+          "@type": "GuidedNavigation",
+          "name": "Navigation Container"
+        }
+      ],
+      "@type": "ContentSlot-Secondary",
+      "name": "GuidedNavigation"
+    },
+    {
+      "contents": [
+        {
+          "id": "dfp-bn-3",
+          "@type": "WMXSecondaryAdPlacement",
+          "name": "adslot sky",
+          "className": "dfp-class"
+        }
+      ],
+      "@type": "ContentSlot-Secondary",
+      "name": "adslot sky"
+    }
+  ],
+  "metaArea": [],
+  "endeca:siteRootPath": "/pages"
+}
