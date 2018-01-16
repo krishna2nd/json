@@ -1,0 +1,199 @@
+{
+    "recsPerPage": 6,
+    "totalNumRecs": 6,
+    "firstRecNum": 1,
+    "lastRecNum": 12,
+    "pagingActionTemplate": {
+        "label": null,
+        "navigationState": "/products/next.json"
+    },
+    "sortOptions": [
+        {
+            "label": "Top Selling",
+            "selected": false,
+            "navigationState": "/products/sort.150.product.topSelling.json"
+        },
+        {
+            "label": "Rating",
+            "selected": false,
+            "navigationState": "/products/sort.150.product.ratings.json"
+        },
+        {
+            "label": "A - Z",
+            "selected": false,
+            "navigationState": "/products/sort.150.product.displayText.0.json"
+        },
+        {
+            "label": "Z - A",
+            "selected": false,
+            "navigationState": "/products/sort.product.displayText.1.json"
+        },
+        {
+            "label": "Price low to high",
+            "selected": false,
+            "navigationState": "/products/sort.sku.finalPrice.0.json"
+        },
+        {
+            "label": "Price high to low",
+            "selected": false,
+            "navigationState": "/products/sort.sku.finalPrice.1.json"
+        }
+    ],
+    "records": [{
+        "numRecords": 1,
+        "attributes": {
+            "Brand": "Puma",
+            "sku.unit_of_measure": "count",
+            "records": [
+                {
+                    "product.id": "1011",
+                    "product.category.id":  "150",
+                    "product.image.url": "/assets/categories/{product.id}/{product.image.type}/bitmap.png",
+                    "product.image.type": [
+                        "drawable-hdpi",
+                        "drawable-mdpi",
+                        "drawable-xhdpi",
+                        "drawable-xxhdpi",
+                        "drawable-xxxhdpi"
+                    ],
+                    "sku.displayName": "Baby Girl",
+                    "product.displayName": "Carter's 2-Piece Tee & Shortalls Set - Grey Blue",
+                    "product.description": "Carter's 2-Piece Tee & Shortalls Set - Grey Blue",
+                    "product.tag": "SALE",
+                    "sku.finalPrice": "88",
+                    "sku.lastPrice": "88",
+                    "maxQuantity": "99.0",
+                    "priceStrikeOff": "0.000000"
+                },
+                {
+                    "product.id": "1111",
+                    "product.category.id":  "150",
+                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
+                    "product.image.type": [
+                        "drawable-hdpi",
+                        "drawable-mdpi",
+                        "drawable-xhdpi",
+                        "drawable-xxhdpi",
+                        "drawable-xxxhdpi"
+                    ],
+                    "sku.displayName": "Baby Girl",
+                    "product.displayName": "Nice blue walk short for babies",
+                    "product.description": "Nice blue walk short for babies",
+                    "sku.finalPrice": "75",
+                    "sku.lastPrice": "150",
+                    "maxQuantity": "99.0",
+                    "priceStrikeOff": "150"
+                },
+                {
+                    "product.id": "1112",
+                    "product.category.id":  "150",
+                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
+                    "product.image.type": [
+                        "drawable-hdpi",
+                        "drawable-mdpi",
+                        "drawable-xhdpi",
+                        "drawable-xxhdpi",
+                        "drawable-xxxhdpi"
+                    ],
+                    "sku.displayName": "Baby Girl",
+                    "product.displayName": "Novelty 4 in1 Baby Carrier",
+                    "product.description": "Novelty 4 in1 Baby Carrier",
+                    "product.tag":{
+                        "type": "NEW",
+                        "count": 1
+                    },
+                    "sku.finalPrice": "120",
+                    "sku.lastPrice": "120",
+                    "maxQuantity": "99.0",
+                    "priceStrikeOff": "0.000000"
+                },
+                {
+                    "product.id": "1113",
+                    "product.category.id":  "150",
+                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
+                    "product.image.type": [
+                        "drawable-hdpi",
+                        "drawable-mdpi",
+                        "drawable-xhdpi",
+                        "drawable-xxhdpi",
+                        "drawable-xxxhdpi"
+                    ],
+                    "sku.displayName": "Baby Girl",
+                    "product.displayName": "cool baby clothes Cotton ",
+                    "product.description": "cool baby clothes Cotton ",
+                    "product.tag":{
+                        "type": "SALE"
+                    },
+                    "sku.finalPrice": "63",
+                    "sku.lastPrice": "80",
+                    "maxQuantity": "99.0",
+                    "priceStrikeOff": "0.000000",
+                    "product.offer": {
+                            "buy": 4,
+                            "free": 1
+                    }
+                },{
+                    "product.id": "1114",
+                    "product.category.id":  "150",
+                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
+                    "product.image.type": [
+                        "drawable-hdpi",
+                        "drawable-mdpi",
+                        "drawable-xhdpi",
+                        "drawable-xxhdpi",
+                        "drawable-xxxhdpi"
+                    ],
+                    "sku.displayName": "Baby Girl",
+                    "product.displayName": "Wintage Flanel Short With Handmade Print",
+                    "product.description": "Wintage Flanel Short With Handmade Print",
+                    "product.tag": {
+                        "type": "LEFT",
+                        "count": 1
+                    },
+                    "sku.finalPrice": "120",
+                    "sku.lastPrice": "110",
+                    "maxQuantity": "99.0",
+                    "priceStrikeOff": "0.000000"
+                },
+                {
+                    "product.id": "1115",
+                    "product.category.id":  "150",
+                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
+                    "product.image.type": [
+                        "drawable-hdpi",
+                        "drawable-mdpi",
+                        "drawable-xhdpi",
+                        "drawable-xxhdpi",
+                        "drawable-xxxhdpi"
+                    ],
+                    "sku.displayName": "Baby Girl",
+                    "product.displayName": "Carter's 4-Piece Penguin Night Wear Set ",
+                    "product.description": "Carter's 4-Piece Penguin Night Wear Set ",
+                    "sku.finalPrice": "105",
+                    "sku.lastPrice": "130",
+                    "maxQuantity": "99.0",
+                    "priceStrikeOff": "0.000000"
+                },
+                {
+                    "product.id": "1116",
+                    "product.category.id":  "150",
+                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
+                    "product.image.type": [
+                        "drawable-hdpi",
+                        "drawable-mdpi",
+                        "drawable-xhdpi",
+                        "drawable-xxhdpi",
+                        "drawable-xxxhdpi"
+                    ],
+                    "sku.displayName": "Baby Girl",
+                    "product.displayName": "Carter's Snap-Up Cotton Romper - Blue",
+                    "product.description": "Carter's Snap-Up Cotton Romper - Blue",
+                    "sku.finalPrice": "98",
+                    "sku.lastPrice": "120",
+                    "maxQuantity": "99.0",
+                    "priceStrikeOff": "0.000000"
+                }
+            ]
+        }
+    }]
+}

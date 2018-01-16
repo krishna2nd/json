@@ -5,38 +5,38 @@
     "lastRecNum": 12,
     "pagingActionTemplate": {
         "label": null,
-        "navigationState": "/products/productions_next.json"
+        "navigationState": "/products/next.json"
     },
     "sortOptions": [
         {
             "label": "Top Selling",
             "selected": false,
-            "navigationState": "/products/productions_sort.json?Ns=product.topSelling"
+            "navigationState": "/products/sort.101.product.topSelling.json"
         },
         {
             "label": "Rating",
             "selected": false,
-            "navigationState": "/products/productions_sort.json?Ns=product.ratings"
+            "navigationState": "/products/sort.101.product.ratings.json"
         },
         {
             "label": "A - Z",
             "selected": false,
-            "navigationState": "/products/productions_sort.json?Ns=product.ratings?Ns=product.displayText|0"
+            "navigationState": "/products/sort.101.product.displayText.0.json"
         },
         {
             "label": "Z - A",
             "selected": false,
-            "navigationState": "/products/productions_sort.json?Ns=product.displayText|1"
+            "navigationState": "/products/sort.product.displayText.1.json"
         },
         {
             "label": "Price low to high",
             "selected": false,
-            "navigationState": "/products/productions_sort.json?Ns=sku.finalPrice|0"
+            "navigationState": "/products/sort.sku.finalPrice.0.json"
         },
         {
             "label": "Price high to low",
             "selected": false,
-            "navigationState": "/products/productions_sort.json?Ns=sku.finalPrice|1"
+            "navigationState": "/products/sort.sku.finalPrice.1.json"
         }
     ],
     "records": [{
