@@ -48,14 +48,7 @@
                 {
                     "product.id": "1011",
                     "product.category.id":  "101",
-                    "product.image.url": "/assets/categories/{product.id}/{product.image.type}/bitmap.png",
-                    "product.image.type": [
-                        "drawable-hdpi",
-                        "drawable-mdpi",
-                        "drawable-xhdpi",
-                        "drawable-xxhdpi",
-                        "drawable-xxxhdpi"
-                    ],
+                    "product.image.url": "/assets/categories/{product.id}.png",
                     "sku.displayName": "Baby Boy",
                     "product.displayName": "Carter's 2-Piece Tee & Shortalls Set - Grey Blue",
                     "product.description": "Carter's 2-Piece Tee & Shortalls Set - Grey Blue",
@@ -63,64 +56,29 @@
                     "sku.finalPrice": "88",
                     "sku.lastPrice": "88",
                     "maxQuantity": "99.0",
-                    "priceStrikeOff": "0.000000"
-                },
-                {
-                    "product.id": "1011",
-                    "product.category.id":  "101",
-                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
-                    "product.image.type": [
-                        "drawable-hdpi",
-                        "drawable-mdpi",
-                        "drawable-xhdpi",
-                        "drawable-xxhdpi",
-                        "drawable-xxxhdpi"
-                    ],
-                    "sku.displayName": "Baby Boy",
-                    "product.displayName": "Carter's 2-Piece Tee & Shortalls Set - Grey Blue",
-                    "product.description": "Carter's 2-Piece Tee & Shortalls Set - Grey Blue",
-                    "product.tag": {
-                        "type": "SALE"
-                    },
-                    "sku.finalPrice": "88",
-                    "sku.lastPrice": "88",
-                    "maxQuantity": "99.0",
+                    "inventoryTotal": "20",
+                    "inventoryUsed": "0",
                     "priceStrikeOff": "0.000000"
                 },
                 {
                     "product.id": "1012",
                     "product.category.id":  "101",
-                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
-                    "product.image.type": [
-                        "drawable-hdpi",
-                        "drawable-mdpi",
-                        "drawable-xhdpi",
-                        "drawable-xxhdpi",
-                        "drawable-xxxhdpi"
-                    ],
+                    "product.image.url": "/assets/categories/{product.id}.png",
                     "sku.displayName": "Baby Boy",
                     "product.displayName": "Carter's 3-Pack Side-Snap Bodysuits",
                     "product.description": "Carter's 3-Pack Side-Snap Bodysuits",
-                    "product.tag":{
-                        "type": "NEW",
-                        "count": 1
-                    },
+                    "product.tag": "NEW",
                     "sku.finalPrice": "80",
                     "sku.lastPrice": "120",
                     "maxQuantity": "99.0",
-                    "priceStrikeOff": "120"
+                    "priceStrikeOff": "120",
+                    "inventoryTotal": "20",
+                    "inventoryUsed": "0"
                 },
                 {
                     "product.id": "1013",
                     "product.category.id":  "101",
-                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
-                    "product.image.type": [
-                        "drawable-hdpi",
-                        "drawable-mdpi",
-                        "drawable-xhdpi",
-                        "drawable-xxhdpi",
-                        "drawable-xxxhdpi"
-                    ],
+                    "product.image.url": "/assets/categories/{product.id}.png",
                     "sku.displayName": "Baby Boy",
                     "product.displayName": "Fox Baby Full Length Lounge Pant - Pink",
                     "product.description": "Fox Baby Full Length Lounge Pant - Pink",
@@ -131,63 +89,44 @@
                 },{
                     "product.id": "1014",
                     "product.category.id":  "101",
-                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
-                    "product.image.type": [
-                        "drawable-hdpi",
-                        "drawable-mdpi",
-                        "drawable-xhdpi",
-                        "drawable-xxhdpi",
-                        "drawable-xxxhdpi"
-                    ],
+                    "product.image.url": "/assets/categories/{product.id}.png",
                     "sku.displayName": "Baby Boy",
                     "product.displayName": "Carters Glitter Puppy Tee - Pink",
                     "product.description": "Carters Glitter Puppy Tee - Pink",
-                    "product.tag": {
-                        "type": "LEFT",
-                        "count": 1
-                    },
                     "sku.finalPrice": "100",
                     "sku.lastPrice": "110",
                     "maxQuantity": "99.0",
-                    "priceStrikeOff": "0.000000"
+                    "priceStrikeOff": "0.000000",
+                    "inventoryTotal": "20",
+                    "inventoryUsed": "19"
                 },
                 {
                     "product.id": "1015",
                     "product.category.id":  "101",
-                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
-                    "product.image.type": [
-                        "drawable-hdpi",
-                        "drawable-mdpi",
-                        "drawable-xhdpi",
-                        "drawable-xxhdpi",
-                        "drawable-xxxhdpi"
-                    ],
+                    "product.image.url": "/assets/categories/{product.id}.png",
                     "sku.displayName": "Baby Boy",
                     "product.displayName": "Babyhug Sleeveless Vest - Green",
                     "product.description": "Babyhug Sleeveless Vest - Green",
                     "sku.finalPrice": "25",
                     "sku.lastPrice": "30",
                     "maxQuantity": "99.0",
-                    "priceStrikeOff": "0.000000"
+                    "priceStrikeOff": "0.000000",
+                    "inventoryTotal": "20",
+                    "inventoryUsed": "0"
                 },
                 {
                     "product.id": "1016",
                     "product.category.id":  "101",
-                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
-                    "product.image.type": [
-                        "drawable-hdpi",
-                        "drawable-mdpi",
-                        "drawable-xhdpi",
-                        "drawable-xxhdpi",
-                        "drawable-xxxhdpi"
-                    ],
+                    "product.image.url": "/assets/categories/{product.id}.png",
                     "sku.displayName": "Baby Boy",
                     "product.displayName": "Carter's 2-Piece Flannel Top & Pant Set - Grey",
                     "product.description": "Carter's 2-Piece Flannel Top & Pant Set - Grey",
                     "sku.finalPrice": "130",
                     "sku.lastPrice": "140",
                     "maxQuantity": "99.0",
-                    "priceStrikeOff": "0.000000"
+                    "priceStrikeOff": "0.000000",
+                    "inventoryTotal": "20",
+                    "inventoryUsed": "0"
                 }
             ]
         }

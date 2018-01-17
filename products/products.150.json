@@ -42,66 +42,31 @@
     "records": [{
         "numRecords": 1,
         "attributes": {
-            "Brand": "Puma",
+            "Brand": "Some brand",
             "sku.unit_of_measure": "count",
             "records": [
                 {
-                    "product.id": "1011",
-                    "product.category.id":  "150",
-                    "product.image.url": "/assets/categories/{product.id}/{product.image.type}/bitmap.png",
-                    "product.image.type": [
-                        "drawable-hdpi",
-                        "drawable-mdpi",
-                        "drawable-xhdpi",
-                        "drawable-xxhdpi",
-                        "drawable-xxxhdpi"
-                    ],
-                    "sku.displayName": "Baby Girl",
-                    "product.displayName": "Carter's 2-Piece Tee & Shortalls Set - Grey Blue",
-                    "product.description": "Carter's 2-Piece Tee & Shortalls Set - Grey Blue",
-                    "product.tag": "SALE",
-                    "sku.finalPrice": "88",
-                    "sku.lastPrice": "88",
-                    "maxQuantity": "99.0",
-                    "priceStrikeOff": "0.000000"
-                },
-                {
                     "product.id": "1111",
                     "product.category.id":  "150",
-                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
-                    "product.image.type": [
-                        "drawable-hdpi",
-                        "drawable-mdpi",
-                        "drawable-xhdpi",
-                        "drawable-xxhdpi",
-                        "drawable-xxxhdpi"
-                    ],
+                    "product.image.url": "/assets/categories/{product.id}.png",
                     "sku.displayName": "Baby Girl",
                     "product.displayName": "Nice blue walk short for babies",
                     "product.description": "Nice blue walk short for babies",
                     "sku.finalPrice": "75",
                     "sku.lastPrice": "150",
                     "maxQuantity": "99.0",
-                    "priceStrikeOff": "150"
+                    "priceStrikeOff": "150",
+                    "inventoryTotal": "20",
+                    "inventoryUsed": "0"
                 },
                 {
                     "product.id": "1112",
                     "product.category.id":  "150",
-                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
-                    "product.image.type": [
-                        "drawable-hdpi",
-                        "drawable-mdpi",
-                        "drawable-xhdpi",
-                        "drawable-xxhdpi",
-                        "drawable-xxxhdpi"
-                    ],
+                    "product.image.url": "/assets/categories/{product.id}.png",
                     "sku.displayName": "Baby Girl",
                     "product.displayName": "Novelty 4 in1 Baby Carrier",
                     "product.description": "Novelty 4 in1 Baby Carrier",
-                    "product.tag":{
-                        "type": "NEW",
-                        "count": 1
-                    },
+                    "product.tag": "NEW",
                     "sku.finalPrice": "120",
                     "sku.lastPrice": "120",
                     "maxQuantity": "99.0",
@@ -110,20 +75,11 @@
                 {
                     "product.id": "1113",
                     "product.category.id":  "150",
-                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
-                    "product.image.type": [
-                        "drawable-hdpi",
-                        "drawable-mdpi",
-                        "drawable-xhdpi",
-                        "drawable-xxhdpi",
-                        "drawable-xxxhdpi"
-                    ],
+                    "product.image.url": "/assets/categories/{product.id}.png",
                     "sku.displayName": "Baby Girl",
                     "product.displayName": "cool baby clothes Cotton ",
                     "product.description": "cool baby clothes Cotton ",
-                    "product.tag":{
-                        "type": "SALE"
-                    },
+                    "product.tag": "SALE",
                     "sku.finalPrice": "63",
                     "sku.lastPrice": "80",
                     "maxQuantity": "99.0",
@@ -131,67 +87,51 @@
                     "product.offer": {
                             "buy": 4,
                             "free": 1
-                    }
+                    },
+                    "inventoryTotal": "20",
+                    "inventoryUsed": "0"
+                    
                 },{
                     "product.id": "1114",
                     "product.category.id":  "150",
-                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
-                    "product.image.type": [
-                        "drawable-hdpi",
-                        "drawable-mdpi",
-                        "drawable-xhdpi",
-                        "drawable-xxhdpi",
-                        "drawable-xxxhdpi"
-                    ],
+                    "product.image.url": "/assets/categories/{product.id}.png",
                     "sku.displayName": "Baby Girl",
                     "product.displayName": "Wintage Flanel Short With Handmade Print",
                     "product.description": "Wintage Flanel Short With Handmade Print",
-                    "product.tag": {
-                        "type": "LEFT",
-                        "count": 1
-                    },
                     "sku.finalPrice": "120",
                     "sku.lastPrice": "110",
                     "maxQuantity": "99.0",
-                    "priceStrikeOff": "0.000000"
+                    "priceStrikeOff": "0.000000",
+                    "inventoryTotal": "20",
+                    "inventoryUsed": "0"
                 },
                 {
                     "product.id": "1115",
                     "product.category.id":  "150",
-                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
-                    "product.image.type": [
-                        "drawable-hdpi",
-                        "drawable-mdpi",
-                        "drawable-xhdpi",
-                        "drawable-xxhdpi",
-                        "drawable-xxxhdpi"
-                    ],
+                    "product.image.url": "/assets/categories/{product.id}.png",
                     "sku.displayName": "Baby Girl",
                     "product.displayName": "Carter's 4-Piece Penguin Night Wear Set ",
                     "product.description": "Carter's 4-Piece Penguin Night Wear Set ",
                     "sku.finalPrice": "105",
                     "sku.lastPrice": "130",
                     "maxQuantity": "99.0",
-                    "priceStrikeOff": "0.000000"
+                    "priceStrikeOff": "0.000000",
+                    "inventoryTotal": "20",
+                    "inventoryUsed": "19"
                 },
                 {
                     "product.id": "1116",
                     "product.category.id":  "150",
-                    "product.image.url": "/assets/categories/{product.category.id}/{product.id}/{product.image.type}/bitmap.png",
-                    "product.image.type": [
-                        "drawable-hdpi",
-                        "drawable-mdpi",
-                        "drawable-xhdpi",
-                        "drawable-xxhdpi",
-                        "drawable-xxxhdpi"
-                    ],
+                    "product.image.url": "/assets/categories/{product.id}.png",
                     "sku.displayName": "Baby Girl",
                     "product.displayName": "Carter's Snap-Up Cotton Romper - Blue",
                     "product.description": "Carter's Snap-Up Cotton Romper - Blue",
                     "sku.finalPrice": "98",
                     "sku.lastPrice": "120",
                     "maxQuantity": "99.0",
-                    "priceStrikeOff": "0.000000"
+                    "priceStrikeOff": "0.000000",
+                    "inventoryTotal": "20",
+                    "inventoryUsed": "0"
                 }
             ]
         }
